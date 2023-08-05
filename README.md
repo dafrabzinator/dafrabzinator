@@ -26,7 +26,7 @@ I'm a Fullstack Web Developer and Security Enthusiast with a Bachelor's degree i
 
 ## 💼 Experience
 
-- Bug Bounty Contributor at HackerOne
+- Bug Bounty Contributor at HackerOne, BugCrowd
 - Freelance Web Development for various startups
 - Collaborated on open-source projects
 - Continuously learning and engaging with the tech community
@@ -87,15 +87,6 @@ I'm a Fullstack Web Developer and Security Enthusiast with a Bachelor's degree i
 
 [![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Dafrabzinator&repo=project-1)](https://github.com/Dafrabzinator/project-1)
 [![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Dafrabzinator&repo=project-2)](https://github.com/Dafrabzinator/project-2)
-
-## GitHub Activity (Bar) Graph
-
-![GitHub Activity (Bar) Graph](https://activity-graph.herokuapp.com/graph?username=Dafrabzinator&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF)
-
-## Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=Dafrabzinator)
-
 ## GitHub Gists
 
 [![Gists](https://github-readme-stats.vercel.app/api/gists?username=Dafrabzinator)](https://gist.github.com/Dafrabzinator)
@@ -103,10 +94,7 @@ I'm a Fullstack Web Developer and Security Enthusiast with a Bachelor's degree i
 ## GitHub Followers Badge
 
 ![Followers](https://img.shields.io/github/followers/Dafrabzinator?style=social)
-
-
 ## GitHub Stats
-
 [![Dafrabzinator's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Dafrabzinator&theme=react)](https://github.com/Dafrabzinator)
 
 <footer>
@@ -117,10 +105,13 @@ I'm a Fullstack Web Developer and Security Enthusiast with a Bachelor's degree i
       <p>
         📫 Let's connect on <a href="https://www.linkedin.com/in/Oluwabusayomi-s-orosunlegan-6a0144263" target="_blank">LinkedIn</a><br>
         🐦 <a href="https://twitter.com/dafrabs" target="_blank">Follow me on Twitter</a><br>
-        ✉️ Email me at <a href="mailto:Oluwabusayomidafrabzinator@gmail.com">Oluwabusayomidafrabzinator@gmail.com</a>
+        <a href="mailto:Oluwabusayomidafrabzinator@gmail.com">
+          <img src="https://i.imgur.com/Ny93rPb.png" alt="Email Icon" width="30" height="20" style="margin-left: 20px;">
+        </a>
       </p>
       <p>&copy; 2023 Oluwabusayomi Stephen. All Rights Reserved.</p>
     </div>
   </div>
 </footer>
+
 
