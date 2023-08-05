@@ -2,9 +2,12 @@
   <h1>👋 Hey there, I'm Oluwabusayomi Stephen</h1>
   <p>Passionate Software Engineer | Security Researcher</p>
   <p>
-    <a href="https://twitter.com/dafrabs"><img src="https://img.shields.io/badge/twitter-%40dafrabs-blue"></a>
-    <a href="https://www.linkedin.com/in/yourname"><img src="https://img.shields.io/badge/linkedin-yourname-blue"></a>
-    <a href="mailto:Oluwabusayomidafrabzinator@gmail.com"><img src="https://img.shields.io/badge/email-contact%40example.com-blue"></a>
+    <a href="https://twitter.com/dafrabs" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter Logo" width="30" height="20" style="margin-right: 20px;">
+  </a>
+  <a href="http://linkedin.com/in/oluwabusayomi-s-orosunlegan-6a0144263" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn Logo" width="30" height=" 20" style="margin-left: 20px;">
+  </a>
   </p>
 </div>
 
