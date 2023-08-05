@@ -100,10 +100,10 @@ I'm a Fullstack Web Developer and Security Enthusiast with a Bachelor's degree i
 <footer style="background-color: #f7f7f7; padding: 20px;">
   <div style="text-align: center;">
     <h2>Reach Out</h2>
-    <p>I'm always open to exciting collaboration opportunities and discussions. Feel free to reach out.</p>
+    <p>I'm always open to exciting collaboration opportunities and discussions.</p>
     <p>
       📫 Let's connect on <a href="https://www.linkedin.com/in/Oluwabusayomi-s-orosunlegan-6a0144263" target="_blank">LinkedIn</a><br>
-      🐦 <a href="https://twitter.com/dafrabs" target="_blank">Follow me on Twitter</a><br>
+      <p><a href="https://twitter.com/dafrabs" target="_blank">Follow me on Twitter</a><p>
       <a href="mailto:Oluwabusayomidafrabzinator@gmail.com">
         <i class="far fa-envelope" style="color: #f00; font-size: 20px; margin-right: 5px;"></i>
       </a>
