@@ -8,6 +8,7 @@
   <a href="http://linkedin.com/in/oluwabusayomi-s-orosunlegan-6a0144263" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn Logo" width="30" height=" 20" style="margin-left: 20px;">
   </a>
+  <img src="https://img.shields.io/github/followers/Dafrabzinator?style=social" alt="Followers Badge" style="margin-left: 20px;">
   </p>
 </div>
 
@@ -108,13 +109,18 @@ I'm a Fullstack Web Developer and Security Enthusiast with a Bachelor's degree i
 
 [![Dafrabzinator's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Dafrabzinator&theme=react)](https://github.com/Dafrabzinator)
 
-## Reach Out
-
-- 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/Oluwabusayomi-s-orosunlegan-6a0144263)
-- 🐦 [Follow me on Twitter](https://twitter.com/dafrabs)
-- Email me at [Oluwabusayomidafrabzinator@gmail.com](mailto:Oluwabusayomidafrabzinator@gmail.com)
-
-
-I'm always open to exciting collaboration opportunities and discussions. Feel free to reach out.
-
+<footer>
+  <div style="background-color: #f7f7f7; padding: 20px;">
+    <div align="center">
+      <h2>Reach Out</h2>
+      <p>I'm always open to exciting collaboration opportunities and discussions. Feel free to reach out.</p>
+      <p>
+        📫 Let's connect on <a href="https://www.linkedin.com/in/Oluwabusayomi-s-orosunlegan-6a0144263" target="_blank">LinkedIn</a><br>
+        🐦 <a href="https://twitter.com/dafrabs" target="_blank">Follow me on Twitter</a><br>
+        ✉️ Email me at <a href="mailto:Oluwabusayomidafrabzinator@gmail.com">Oluwabusayomidafrabzinator@gmail.com</a>
+      </p>
+      <p>&copy; 2023 Oluwabusayomi Stephen. All Rights Reserved.</p>
+    </div>
+  </div>
+</footer>
 
