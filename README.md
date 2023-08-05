@@ -79,24 +79,6 @@ I'm a Fullstack Web Developer and Security Enthusiast with a Bachelor's degree i
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Dafrabzinator&theme=onedark)
 
-## Recently Played GitHub Repos
-
-[![Recently Played Repos](https://github-readme-stats.vercel.app/api/pin/?username=Dafrabzinator&repo=recently-played-github-repos)](https://github.com/Dafrabzinator/recently-played-github-repos)
-
-## GitHub Extra Pins
-
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Dafrabzinator&repo=project-1)](https://github.com/Dafrabzinator/project-1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Dafrabzinator&repo=project-2)](https://github.com/Dafrabzinator/project-2)
-## GitHub Gists
-
-[![Gists](https://github-readme-stats.vercel.app/api/gists?username=Dafrabzinator)](https://gist.github.com/Dafrabzinator)
-
-## GitHub Followers Badge
-
-![Followers](https://img.shields.io/github/followers/Dafrabzinator?style=social)
-## GitHub Stats
-[![Dafrabzinator's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Dafrabzinator&theme=react)](https://github.com/Dafrabzinator)
-
 <footer style="background-color: #f7f7f7; padding: 20px;">
   <div style="text-align: center;">
     <h2>Reach Out</h2>
