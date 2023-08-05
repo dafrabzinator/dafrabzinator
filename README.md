@@ -1,4 +1,4 @@
-div align="center">
+<div align="center">
   <h1>👋 Hey there, I'm Oluwabusayomi Stephen</h1>
   <p>Passionate Software Engineer | Security Researcher</p>
   <p>
@@ -43,7 +43,7 @@ I'm a Fullstack Web Developer and Security Enthusiast with a Bachelor's degree i
 - Explored various vulnerabilities, from OWASP Top 10 to complex authorization bypasses
 
 
-## Technical Skills -->
+## Technical Skills
 
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -100,49 +100,6 @@ I'm a Fullstack Web Developer and Security Enthusiast with a Bachelor's degree i
 
 ![Followers](https://img.shields.io/github/followers/Dafrabzinator?style=social)
 
-## Get in Touch
-- Absolutely, here are some advanced modifications that will make your GitHub profile stand out to recruiters and reflect your expertise as a software engineer and security researcher:
-
-markdown
-Copy code
-# Hi there! 👋
-
-I'm Oluwabusayomi Stephen, a passionate Software Engineer specializing in Web Development and Security Research. I'm dedicated to crafting robust, secure, and scalable solutions that make an impact. 🌐💻
-
-## About Me
-
-- 🎓 Bachelors of Science in Biochemistry
-- 💼 Fullstack Web Developer | Security Researcher
-- 🛠️ Bug bounty contributor at HackerOne
-- 📊 Experienced in DevOps and CI/CD pipelines
-
-## Expertise
-
-- 💻 Web Development | Back-End Development
-- ⚙️ Proficient in: Python, JavaScript, TypeScript, CSS, React
-- 🛢️ Databases: PostgreSQL, MySQL
-- 🔐 Security Enthusiast | Ethical Hacker
-
-## Bug Bounty Highlights
-
-- 🏆 Recognized by HackerOne for multiple vulnerabilities
-- 💡 Contributed to security enhancements in prominent projects
-- 🔍 Explored various attack vectors to fortify systems
-
-## Open Source Contributions
-
-- 🌐 Active contributor to open-source projects
-- 🤝 Actively participate in community discussions
-- 💬 Sharing insights on web development and security on [Twitter](https://twitter.com/dafrabs)
-
-## Technical Skills
-
-[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
-[![React](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
-<!-- Add more skills -->
 
 ## GitHub Stats
 
