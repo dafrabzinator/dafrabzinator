@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hey there, I'm Oluwabusayomi Stephen</h1>
-  <p>Passionate Software Engineer | Security Researcher</p>
+  <p>Software Engineer | Security Researcher</p>
   <p>
     <a href="https://twitter.com/dafrabs" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter Logo" width="30" height="20" style="margin-right: 20px;">
