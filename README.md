@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hey there, I'm Oluwabusayomi Stephen</h1>
+  <h1>👋 Hey there, I'm Oros.O. Stephen</h1>
   <p>Security Researcher</p>
   <p>
     <a href="https://twitter.com/dafrabs" target="_blank">
