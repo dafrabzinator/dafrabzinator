@@ -89,7 +89,7 @@
       </a>
       <a href="mailto:Oluwabusayomidafrabzinator@gmail.com" style="color: #f00; font-weight: bold; text-decoration: none; vertical-align: middle;">Email</a>
     </p>
-    <p style="font-size: 14px; color: #777;">&copy; 2023 Oluwabusayomi Stephen. All Rights Reserved.</p>
+    <p style="font-size: 14px; color: #777;">&copy; 2024 Oluwabusayomi Stephen. All Rights Reserved.</p>
   </div>
 </footer>
 
