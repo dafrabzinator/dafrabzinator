@@ -26,7 +26,7 @@
 
 - Bug Bounty Contributor at HackerOne, BugCrowd
 - Freelance Web Development for various startups
-- Collaborated on open-source projects
+- Collaborating on open-source projects
 - Continuously learning and engaging with the tech community
 
 ## 🏆 Bug Bounty Achievements
