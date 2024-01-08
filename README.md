@@ -31,7 +31,7 @@
 
 ## 🏆 Bug Bounty Achievements
 
-- Recognized by HackerOne for responsibly disclosing critical vulnerabilities
+- Recognized by Glassdoor on HackerOne for responsibly disclosing critical vulnerabilities
 - Secured web applications against common and advanced attack vectors
 
 ## 👨‍💻 Open Source Contributions
