@@ -12,7 +12,7 @@
   </p>
 </div>
 
- Developer and Security Enthusiast with a Bachelor's degree in Biochemistry. I'm passionate about creating secure and high-performance web applications. 
+ Developer and Security Enthusiast. I'm passionate about creating secure and high-performance web applications. 
 
 ## 🛠️ Expertise
 
