@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hey there, I'm Oluwabusayomi Stephen</h1>
-  <p>Software Engineer | Security Researcher</p>
+  <p>Security Researcher</p>
   <p>
     <a href="https://twitter.com/dafrabs" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter Logo" width="30" height="20" style="margin-right: 20px;">
@@ -12,9 +12,7 @@
   </p>
 </div>
 
-## 🚀 About Me
-
-I'm a Fullstack Web Developer and Security Enthusiast with a Bachelor's degree in Biochemistry. I'm passionate about creating secure and high-performance web applications. 
+ Developer and Security Enthusiast with a Bachelor's degree in Biochemistry. I'm passionate about creating secure and high-performance web applications. 
 
 ## 🛠️ Expertise
 
