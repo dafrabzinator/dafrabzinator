@@ -37,7 +37,7 @@
 ## 👨‍💻 Open Source Contributions
 
 - Active contributor to open-source projects with a focus on security enhancements
-- Regularly sharing insights on web development and security on [Twitter](https://twitter.com/dafrabs)
+- Regularly sharing insights on web development and security on [Twitter](https://twitter.com/dafrabs) now X.
 
 ## 🛡️ Security Research
 
